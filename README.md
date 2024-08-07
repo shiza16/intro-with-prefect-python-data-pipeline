@@ -1,8 +1,7 @@
 # Intro to Prefect
 
 This project is meant as an introduction to data engineering through Prefect.
-This `main` branch is the starting point. For the completed version, see
-the `complete` branch.
+
 
 ## Setup
 
